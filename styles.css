@@ -1,0 +1,153 @@
+html {
+    font-family: sans-serif; 
+    line-height: 1.15; 
+    -webkit-text-size-adjust: 100%; 
+}
+
+header{
+  background-color: #2b2d31;
+}
+
+.navbar-dark .navbar-brand {
+  color: #ff9800;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #ff9800;
+}
+
+footer{
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #2b2d31;
+  
+}
+
+.carouselExampleCaptions{
+  padding: 50px;
+  height: 50vh;
+} 
+
+.carousel-inner > .item > img {
+  object-fit: scale-down;
+  height: 50%;
+}
+
+.carousel-item img{
+  max-height: 66rem;
+}
+
+body{
+  background-color:#000000;
+}
+
+h3, h4, h5 {
+    font-family: math !important;
+    color: #FF9800 !important;
+    font-size: 30px;
+}
+
+p{
+    color: #e6c38f;
+    font-size: 20px ;
+}
+
+a {
+  color: #FF5722;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.navbar-dark .navbar-toggler  {
+  color: #FF9800;
+  border-color: #FF9800;
+}
+
+.span.navbar-toggler-icon {
+  color: #FF9800;
+}
+
+#presentacion{
+  font-family: math !important;
+  color: #FF9800 !important;
+}
+
+::marker {
+  color: coral;
+}
+
+footer p, li {
+  font-size: small;
+}
+
+.contenedorRedes{
+  display: flex;
+  justify-content: left;
+  gap: 10px;
+}
+
+.contenedorRedes a{
+  font-size: 30px;
+}
+
+.facebook{
+  font-size: 20px;
+  color: blue;
+}
+
+.instagram {
+  font-size: 20px;
+  color: purple;
+}
+
+.whatsapp{
+  font-size: 20px;
+  color: green;
+}
+
+/* Mision */
+#Mision {
+  margin-top: 30%;
+  color: #FF9800 !important; 
+}
+
+/* Vision */
+#Vision {
+  margin-top: 30%;
+  color: #FF9800 !important; 
+ }
+
+#imagenVision img{
+  width: 50vh;
+}
+
+/* Contactenos */
+#redesSociales{
+  color: #FF9800 !important;
+  font-size: 20px;
+}
+
+iframe {
+  width: 70vh;
+  height: 80vh;
+}
+
+.carousel-inner{
+  height: 10hv;
+}
+
+/* Libros*/
+.card {
+  background-color: #2b2d31;
+}
+.card-title h5 {
+  font-size: 20px;
+}
+
+
+li.list-group-item {
+  background: #FF9800;
+  color: black;
+  font-size: 21px;
+  font-weight: bold;
+}

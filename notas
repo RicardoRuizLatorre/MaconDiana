@@ -1,0 +1,23 @@
+
+Actividad Numero 2
+Buenas noches apreciados estudiantes la actividad de esta semana consta de los siguientes parámetros, se debe desarrollar una pagina estilo Home donde se visualice un header con al menos 3 links a los destinos que deseen,  ejemplo misión, visión, contáctenos, servicios,  etc, un footer con al menos 2 bloques ejemplo información, ubicación, teléfonos, horarios etc, debe contener imágenes al menos 2 imágenes dentro del contenido como mínimo, textos sobre la temática de la pagina, debe tener carruseles, productos o servicios que se pretenda usar como negocio o emprendimiento,  debe estar realizado con el modelo de estructura index.html. index.css y Creado usando BOOTSTRAP
+Asunto de email: IBERO_07_Actividad 2 HomePage<sunombre_apellidos>
+Calificación 
+Nota Máxima 5, Nota mínima 1 Dentro del tiempo establecido
+Nota Máxima 4, Nota mínima 1 Fuera del tiempo establecido
+Fecha máxima de entrega como actividad lunes 14 de octubre de 2024 23:59 
+Presentacion Modulo 1 Viernes 18 de octubre de 2024 23:59 
+Recuerden enviar el archivo adjunto como archivo de drive, comprimido o enviar el Link de donde se pueda descargar la actividad 
+email: john.castiblanco@bitinstute.co  
+
+
+CDN Font-awesome
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css
+
+
+tama;os respomsivos
+
+col-12 col-sm-12 col-md-6
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.7940870039624!2d-78.47976862620017!3d-0.19969533540133222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a75efbb9fdf%3A0x58bab605de0df608!2sCam.%20de%20Orellana%2C%20Quito%2C%20Ecuador!5e0!3m2!1ses-419!2sco!4v1728406756046!5m2!1ses-419!2sco" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
